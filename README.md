@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="450" src="https://media.discordapp.net/attachments/1449836231708905548/1449841625256824863/F82540DB-E735-4E56-BC72-F9F5A81CF43C_1.png?ex=69405dbc&is=693f0c3c&hm=d73aabc0ed46e69793a41f4fdd83806a944c4007db889c504abff778e712fda0&=&format=webp&quality=lossless&width=1000&height=723"  />
+  <img height="450" src="https://i.postimg.cc/Ghf2pKYy/F82540DB-E735-4E56-BC72-F9F5A81CF43C-1.png"  />
 </div>
 
 ###
