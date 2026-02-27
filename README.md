@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">**My first Python Project:** A simple license key generator made in Python with all essential features, perfect for generating license keys for your projects. All keys are highly randomized. The code is easy to understand and well commented. Adding new features is simple, just set the boolean variable more_features to True in main.py.<br><br>Quick showcase video: https://youtu.be/2S-yFoHzohM</p>
+<p align="center">**My first small public Project:** A simple license key generator made in Python with all essential features, perfect for generating license keys for your projects. All keys are highly randomized. The code is easy to understand and well commented. Adding new features is simple, just set the boolean variable more_features to True in main.py.<br><br>Quick showcase video: https://youtu.be/2S-yFoHzohM</p>
 
 ###
 
